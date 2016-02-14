@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.16058
+  brandStrength: 0.2855394
+  lightness: 0.5816327
+  rhythmicContrast: 0.6310419
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.7287863
+name: QualityControl
